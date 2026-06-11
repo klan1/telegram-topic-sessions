@@ -1,0 +1,32 @@
+{
+  "active_topic": "topic_general",
+  "topics": [
+    {
+      "id": "topic_general",
+      "name": "General",
+      "created": "2026-06-11T16:00:00",
+      "updated": "2026-06-11T16:30:00",
+      "summary": "General discussion and system setup",
+      "msg_count": 15,
+      "archived": false
+    },
+    {
+      "id": "topic_project_x",
+      "name": "Project X",
+      "created": "2026-06-11T16:45:00",
+      "updated": "2026-06-11T17:00:00",
+      "summary": "Sprint planning and feature design",
+      "msg_count": 8,
+      "archived": false
+    },
+    {
+      "id": "topic_archive_2025",
+      "name": "Archive 2025",
+      "created": "2025-12-01T10:00:00",
+      "updated": "2026-01-15T14:00:00",
+      "summary": "Closed projects from last year",
+      "msg_count": 42,
+      "archived": true
+    }
+  ]
+}
